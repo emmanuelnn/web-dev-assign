@@ -79,3 +79,11 @@ footer{
      "footer footer footer";
     }
 
+    a, a, a {
+        width: 35px;
+        height: 5px;
+        background-color: #333;
+        margin: 6px 0;
+        transition: 0.4s;
+      }
+      
