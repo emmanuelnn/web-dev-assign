@@ -15,8 +15,16 @@ nav{
   
 }
 
+nav ul{
+    list-style-type:none;
+    display: list-item;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+nav ul li{
+    
 
 
+}
 main{
     background-color: blueviolet;
     color: white;
